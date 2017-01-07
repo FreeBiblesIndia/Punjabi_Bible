@@ -2,7 +2,7 @@
 Punjabi Bible (CC by SA)
 
 New Testament (27 books) available now.
-Revision based on Public Domain Punjabi Bible version 1945.
+Revision based on Public Domain Punjabi Bible.
 
 Read Bible, Download Android/Desktop Apps
 
