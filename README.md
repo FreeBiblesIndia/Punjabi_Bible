@@ -6,7 +6,7 @@ Revision based on [Public Domain Punjabi Bible](https://github.com/tfbf/punjabi_
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/pan/ (Coming soon)
+http://freebiblesindia.com/bible/pan/
 
 http://punjabivirsa.co.in/
 
