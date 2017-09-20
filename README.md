@@ -1,7 +1,7 @@
 # Punjabi_Bible
 Punjabi Bible (CC by SA)
 
-New Testament (27 books) available now.
+New Testament (66 books) available now.
 Revision based on [Public Domain Punjabi Bible](https://github.com/tfbf/punjabi_bible_1945).
 
 Read Bible, Download Android/Desktop Apps
