@@ -1,4 +1,4 @@
-# Punjabi_Bible
+# Punjabi Bible
 Punjabi Bible (CC by SA)
 
 Old and New Testament (66 books) available now.
@@ -12,7 +12,6 @@ http://freebiblesindia.com/bible/pan/
 http://punjabivirsa.co.in/
 
 ## Thanks
-
 As we submit this translation for publication, we recognize that any translation of the Scriptures is subject to limitations and imperfections. 
 Anyone who has attempted to communicate the richness of God’s Word into another language will realize it is impossible to make a perfect translation. 
 Recognizing these limitations, we sought God’s guidance and wisdom throughout this project. 
