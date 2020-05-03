@@ -1,4 +1,7 @@
 # Punjabi Bible
+
+![icon](https://github.com/FreeBiblesIndia/Punjabi_Bible/blob/master/icons/icon.png?raw=true)
+
 Punjabi Bible (CC by SA)
 
 Old and New Testament (66 books) available now.
